@@ -23,4 +23,4 @@
 
 
 
-Kaggle notebooj link: <a href="https://www.kaggle.com/msvrao/notebook24f1a2c132">Click here</a>
+Kaggle notebook link: <a href="https://www.kaggle.com/msvrao/notebook24f1a2c132">Click here</a>
