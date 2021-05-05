@@ -20,3 +20,7 @@
 3. After stop words are removed create bag of words
 4. Apply Naive Bayes and classify
 
+
+
+
+Kaggle notebooj link: <a href="https://www.kaggle.com/msvrao/notebook24f1a2c132">Click here</a>
